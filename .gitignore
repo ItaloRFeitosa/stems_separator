@@ -1,0 +1,4 @@
+.vscode
+pretrained_models/2stems
+pretrained_models/4stems
+__pycache__
